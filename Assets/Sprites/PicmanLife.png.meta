@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: 5a988798c426e0e4aaa6a001f2ae7c7a
+guid: cd72ce6f7fe7ee04d8edc3793d174219
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4369365937244698209
-    second: PowerPallet_0
+      213: -1459093751697781329
+    second: PicmanLife_0
   - first:
-      213: -697945420629430951
-    second: PowerPallet_1
+      213: 3822023641966000734
+    second: PicmanLife_1
   - first:
-      213: -6217588687986321961
-    second: PowerPallet_2
+      213: -6339522367714107570
+    second: PicmanLife_2
   - first:
-      213: -307305353726130003
-    second: PowerPallet_3
+      213: 6972115628736451167
+    second: PicmanLife_3
+  - first:
+      213: 6219833752495525710
+    second: PicmanLife_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -58,7 +61,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PowerPallet_0
+      name: PicmanLife_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 172
-        width: 44
-        height: 44
+        x: 48
+        y: 312
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -129,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9986d874d4ec53c0800000000000000
-      internalID: -4369365937244698209
+      spriteID: fadcf04a6f140cbe0800000000000000
+      internalID: -1459093751697781329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PowerPallet_1
+      name: PicmanLife_1
       rect:
         serializedVersion: 2
-        x: 172
-        y: 172
-        width: 44
-        height: 44
+        x: 176
+        y: 312
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +153,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95da5ca76566056f0800000000000000
-      internalID: -697945420629430951
+      spriteID: e5a378e904e8a0530800000000000000
+      internalID: 3822023641966000734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PowerPallet_2
+      name: PicmanLife_2
       rect:
         serializedVersion: 2
-        x: 44
-        y: 44
-        width: 44
-        height: 44
+        x: 48
+        y: 184
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d5961dc700b6b9a0800000000000000
-      internalID: -6217588687986321961
+      spriteID: e4fd1caaefd7508a0800000000000000
+      internalID: -6339522367714107570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PowerPallet_3
+      name: PicmanLife_3
       rect:
         serializedVersion: 2
-        x: 172
-        y: 44
-        width: 44
-        height: 44
+        x: 176
+        y: 184
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,8 +195,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da80491b86b3cbbf0800000000000000
-      internalID: -307305353726130003
+      spriteID: f5219c7793ee1c060800000000000000
+      internalID: 6972115628736451167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PicmanLife_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f0b7308d9415650800000000000000
+      internalID: 6219833752495525710
       vertices: []
       indices: 
       edges: []
