@@ -24,6 +24,7 @@ public class pacmanMove: MonoBehaviour
         {
             endPos = new Vector3(9.5f, 0.2f, 0f);
             tweener.AddTween(pacman.transform, pacman.transform.position, endPos, 1.5f);
+            pacman.transform.rotation = Quaternion.Euler(0, 0, 0);
             pacman.transform.Rotate(0f, 0f, 0f);
             move = 1;
 
